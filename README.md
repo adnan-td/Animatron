@@ -1,7 +1,7 @@
 # Animatron
 
 Hello and welcome to Animatron, A place to explore your creative talents through Animations (CSS or Javascript) :)\
-<a href="https://adnan-s-husain.github.io/Animatron/" >Click here<a/> to checkout the page
+(<a href="https://adnan-s-husain.github.io/Animatron/" >Click here<a/> to checkout the page)
 
 # Rules
 
